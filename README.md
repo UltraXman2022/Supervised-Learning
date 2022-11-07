@@ -21,19 +21,19 @@ Additionally, measure the AUC-ROC metric and compare it with the F1.
 <h2>Data description</h2>
 
 Features
-<ul><li>RowNumber — data string index<li>
-CustomerId — unique customer identifier</li>
-Surname — surname</li>
-CreditScore — credit score</li>
-Geography — country of residence</li>
-Gender — gender</li>
-Age — age</li>
-Tenure — period of maturation for a customer’s fixed deposit (years)</li>
-Balance — account balance</li>
-NumOfProducts — number of banking products used by the customer</li>
-HasCrCard — customer has a credit card</li>
-IsActiveMember — customer’s activeness</li>
-EstimatedSalary — estimated salary</li></ul>
+<ul><li>RowNumber — data string index</li>
+<li>CustomerId — unique customer identifier</li>
+<li>Surname — surname</li>
+<li>CreditScore — credit score</li>
+<li>Geography — country of residence</li>
+<li>Gender — gender</li>
+<li>Age — age</li>
+<li>Tenure — period of maturation for a customer’s fixed deposit (years)</li>
+<li>Balance — account balance</li>
+<li>NumOfProducts — number of banking products used by the customer</li>
+<li>HasCrCard — customer has a credit card</li>
+<li>IsActiveMember — customer’s activeness</li>
+<li>EstimatedSalary — estimated salary</li></ul>
 
 Target
 <ul><li>Exited — сustomer has left</li></ul>
